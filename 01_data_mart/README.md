@@ -32,7 +32,7 @@ SQL は BigQuery 上で実行し、年度ごとの傾向を分析するために
 
 ### 🛠 使用技術
 
-- BigQuery (Standard SQL)
+- BigQuery
 - 公開データ：`bigquery-public-data.stackoverflow`  
   - posts_questions  
   - posts_answers
